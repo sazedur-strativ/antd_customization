@@ -97,13 +97,13 @@ const TableStyle = styled.div`
   }
 
   .ant-table-tbody > tr > td {
-    text-align: start;
+    align-self: center;
     color: rgb(22 163 74);
+    
+
   }
 
-  .ant-table-row:hover {
-    background-color: #196081;
-  }
+ 
 `;
 
 export default TableTwo;
